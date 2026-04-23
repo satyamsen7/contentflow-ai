@@ -73,6 +73,4 @@ npm run dev:all
 - **YouTube Refresh Token Expired:** Re-authorize your Google account in the Google Cloud Console or via the provided OAuth script and update your Credentials in the dashboard.
 - **FFmpeg Errors:** Ensure `ffprobe-static` and `ffmpeg-static` are correctly installed.
 
-## License
 
-MIT License
